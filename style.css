@@ -6,6 +6,7 @@ html {
 
 body {
   font-family: 'Montserrat', sans-serif;
+
 }
 
 .col
@@ -47,10 +48,8 @@ body {
   text-transform: uppercase;
   border-radius: 200px;
   font-family: 'Montserrat', sans-serif;
-  position: absolute;
-  top: 50%;
-  left: 45%;
-  transition: .3s ease;
+  position: relative;
+  text-align: center;
 }
 
 .btn-xl {
@@ -67,4 +66,4 @@ body {
   border-width: 5px;
   cursor: pointer;
 }
-  
+#mc-embedded-subscribe-form { text-align: center; }
